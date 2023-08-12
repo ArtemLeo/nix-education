@@ -5,12 +5,11 @@ package nix_beginner;
 public class Task_06 {
     public static void main(String[] args) {
         int number = 123;
-
-        int sum = calculateSum(number);
-        System.out.println(sum);
+        int result = sumOfNumber(number);
+        System.out.println("Сумма цифр числа " + number + " = " + result);
     }
 
-    private static int calculateSum(int number) {
+    private static int sumOfNumber(int number) {
         int result = 0;
         for (int i = (number > 0 ? number : number * -1); i > 0; i /= 10) {
             result += i % 10;

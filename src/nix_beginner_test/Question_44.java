@@ -5,7 +5,6 @@ public class Question_44 {
     /*
       Имеется запускаемый JAR-файл helloworld.jar который содержит класс HelloWorld.
       Какой командой запустить на выполнение этот JAR-файл?
-      Выберите один ответ:
 
       1) java -cp helloworld.jar
       2) java -classpath helloworld.jar

@@ -10,7 +10,6 @@ public class Question_52 {
 	      System.out.print("c" + (1 + 1) + ("0" + 2) + 'o');
         }
       }
-      Выберите один ответ:
 
       1) c1102111
       2) c112o

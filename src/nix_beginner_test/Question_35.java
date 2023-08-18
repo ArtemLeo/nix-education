@@ -4,7 +4,6 @@ public class Question_35 {
 
     /*
       Как расшифровывается CSS?
-      Выберите один ответ:
 
       1) Central Style System
       2) Common Style Sheets

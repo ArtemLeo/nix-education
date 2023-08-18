@@ -5,7 +5,6 @@ public class Question_42 {
     /*
       Имеется класс com.nixsolutions.HelloWorld который хранится в JAR-файле helloworld.jar.
       Укажите правильное местоположение class-файла внутри архива.
-      Выберите один ответ:
 
       1) /com/nixsolutions/HelloWorld.class ✔
       2) /HelloWorld.class

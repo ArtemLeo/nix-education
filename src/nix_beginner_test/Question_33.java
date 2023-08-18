@@ -4,7 +4,6 @@ public class Question_33 {
 
     /*
       Укажите правильный вариант создания гипертекстовой ссылки в html.
-      Выберите один ответ:
 
       1) <a href="http://google.com">Google</a> ✔
       2) <a url="http://google.com">Google</a>

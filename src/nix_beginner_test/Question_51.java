@@ -14,7 +14,6 @@ public class Question_51 {
 	      rc += 1;
       }
       System.out.println(rc);
-      Выберите один ответ:
 
       1) 2 ✔
       2) 0

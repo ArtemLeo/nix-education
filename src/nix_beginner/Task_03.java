@@ -28,7 +28,7 @@ public class Task_03 {
                 break;
             case "/":
                 if (secondValue != 0) {
-                    result = firstValue + secondValue;
+                    result = firstValue / secondValue;
                     break;
                 } else {
                     System.out.println("Error: Division by zero is allowed!");

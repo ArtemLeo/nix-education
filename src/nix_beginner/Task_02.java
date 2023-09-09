@@ -7,7 +7,7 @@ package nix_beginner;
 
 public class Task_02 {
     public static void main(String[] args) {
-        String input = "Ivan Ivanov";
+        String input = "Alexey Alekseev";
         splitInput(input);
     }
 

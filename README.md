@@ -1,5 +1,5 @@
-<h1 align>Nix-Education-Academy 🖐</h1>
-<h2>🟠Tasks and their answers from Nix Academy</h2>
+<h1 align>Nix Education Academy 🖐</h1>
+<h2>🟠 Tasks and their answers from Nix Academy</h2>
 <h3>🟠 My personal learning experience.</h3>
 <h3>🟠 I don't recommend copying my solutions - you won't learn anything that way.</h2>
 <h3><a href="https://education.nixsolutions.com/course/"><strong>Nix Education »</strong></a></h3>
